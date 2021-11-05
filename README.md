@@ -2,7 +2,7 @@
 
 University project for Reti Logiche course at Politecnico di Milano, A.Y. 2020-2021.
 
-The full specification can be found [here](https://github.com/OttaviaBelotti/histogram-equalization-VHDL/blob/main/project-specifications-italian.pdf) (italian only) and a brief introduction can be found in the [Specifications](##specifications) section below.
+The full specification can be found [here](https://github.com/OttaviaBelotti/histogram-equalization-VHDL/blob/main/project-specifications-italian.pdf) (italian only) and a brief introduction can be found in the [Specifications](#specifications) section below.
 
 Devs: [Javin Barone](https://github.com/Javinyx), [Ottavia Belotti](https://github.com/OttaviaBelotti)
 
